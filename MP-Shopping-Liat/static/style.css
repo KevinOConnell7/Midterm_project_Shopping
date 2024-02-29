@@ -1,0 +1,78 @@
+body, h1, div, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"] {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: calc(50% - 60px);
+}
+
+button {
+    background-color: #5cb85c;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #449d44;
+}
+
+/* Styling the shopping list */
+ul {
+    list-style-type: none;
+}
+
+li {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ddd;
+}
+
+li button {
+    background-color: #d9534f;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+
+li button:hover {
+    background-color: #c9302c;
+}

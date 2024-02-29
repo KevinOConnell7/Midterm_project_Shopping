@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping List App</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+</head>
+<body>
+    <h1>Shopping List</h1>
+    <div id="totalQuantity">Total Quantity: 0</div>
+    <div>
+        <label for="itemInput">Add Item:</label>
+        <input type="text" id="itemInput" />
+        <input type="number" id="itemQuantity" min="1" value="1" />
+        <button onclick="addItem()">Add</button>
+    </div>
+    <ul id="shoppingList"></ul>
+    <script src="/static/app.js"></script>
+</body>
+</html>
