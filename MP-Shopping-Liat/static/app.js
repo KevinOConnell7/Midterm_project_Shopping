@@ -20,7 +20,7 @@ async function addItem() {
         getShoppingList();
         recalculateTotalQuantity(); 
     } else {
-        alert('Please enter a valid item and quantity');
+        alert('Please enter a valid item and quantity.');
     }
 }
 
