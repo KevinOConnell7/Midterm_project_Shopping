@@ -8,5 +8,10 @@ CS:3980:0001
 
 ## How to run Application?
 
+## FrontEnd
+
+## Backend
+
+## CRUD (Create, Read, Update, Delete)
 
 
