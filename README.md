@@ -10,7 +10,21 @@ CS:3980:0001
 
 ## FrontEnd
 
+### app.js
+
+### style.css
+
+### favicon.ico
+
+### index.html
+
 ## Backend
+
+### main.py
+
+### models.py
+
+### routes.py
 
 ## CRUD (Create, Read, Update, Delete)
 
