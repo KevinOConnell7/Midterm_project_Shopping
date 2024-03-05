@@ -25,3 +25,15 @@ async def remove_item(item: RemoveItem):
 async def recalculate_total():
     total_quantity = sum(item['quantity'] for item in shopping_list)
     return {"total_quantity": total_quantity}
+# 
+
+@router.put("/update_item")
+async def update_item(item: Item):
+    global shopping_list
+    for i in range(len(shopping_list)):
+        if shopping_list[i]["item"] == item.item:
+            shopping_list[i]["quantity"] = item.quantity
+            return {"message": f"Item '{item.item}' updated with quantity {item.quantity}."}
+    raise HTTPException(status_code=404, detail="Item not found")
+
+#

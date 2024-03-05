@@ -48,7 +48,6 @@ button:hover {
     background-color: #449d44;
 }
 
-/* Styling the shopping list */
 ul {
     list-style-type: none;
 }
@@ -76,3 +75,18 @@ li button {
 li button:hover {
     background-color: #c9302c;
 }
+
+li button.update {
+    background-color: #f0ad4e;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+li button.update:hover {
+    background-color: #ec971f;
+}
+
