@@ -26,7 +26,6 @@ async def recalculate_total():
     total_quantity = sum(item['quantity'] for item in shopping_list)
     return {"total_quantity": total_quantity}
 # 
-
 @router.put("/update_item")
 async def update_item(item: Item):
     global shopping_list

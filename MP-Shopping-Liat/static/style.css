@@ -73,11 +73,11 @@ li button {
 }
 
 li button:hover {
-    background-color: #c9302c;
+    background-color: #b62a25;
 }
 
 li button.update {
-    background-color: #f0ad4e;
+    background-color: #1526e1;
     color: white;
     padding: 5px 10px;
     border-radius: 4px;
@@ -87,6 +87,6 @@ li button.update {
 }
 
 li button.update:hover {
-    background-color: #ec971f;
+    background-color: #187fbf;
 }
 
