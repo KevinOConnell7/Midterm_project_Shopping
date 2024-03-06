@@ -45,17 +45,25 @@ Install Uvicorn
 
 ### app.js
 
+
+
 ### style.css
 
 ### favicon.ico
 
+<img width="1161" alt="Screen Shot 2024-03-06 at 9 55 51 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/1683345c-7d92-4eb6-9450-5740be8aa0a3">
+
 ### index.html
+
+<img width="1165" alt="Screen Shot 2024-03-06 at 9 55 30 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/62dd350d-528f-4af2-aa36-8422d11542b3">
 
 ## Backend
 
 ### main.py
 
 ### models.py
+
+<img width="1165" alt="Screen Shot 2024-03-06 at 9 56 13 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/09e24761-d51c-4d25-a3b3-5c29cb2425b9">
 
 ### routes.py
 
