@@ -34,12 +34,9 @@ Install Uvicorn
 
 
 
-
 ## FrontEnd
 
-
 ### app.js
-
 
 ### style.css
 
@@ -54,6 +51,27 @@ Install Uvicorn
 ### models.py
 
 ### routes.py
+
+## Snap shot from website
+
+The screen shot below is what the website looks like when you first run it and open the website. 
+
+<img width="1431" alt="Screen Shot 2024-03-06 at 9 37 54 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/e1431e23-8067-4deb-8966-be98d4b7cbd9">
+
+The next screen shot that I show you is with a couple items added to the list with diffrent quantities. As you can see below the quanity at the top of the screen is growing.
+
+<img width="1426" alt="Screen Shot 2024-03-06 at 9 42 20 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/37cb8375-ed9f-4235-984c-9d3f9ef9c20a">
+
+In the next screen shot that you will see below I will remove some items from the list above.
+
+<img width="1429" alt="Screen Shot 2024-03-06 at 9 45 29 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/6ee4ef75-16ad-4cc0-99e7-c32ce73786ef">
+
+Next I will show you 2 screen shots of the update button. One screenshot will be the prompt that pops up and the next will be the updated item quantity in the list. 
+
+<img width="1431" alt="Screen Shot 2024-03-06 at 9 48 17 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/f7e6fa3a-4fb3-4329-bc76-680c8cf95f9f">
+
+<img width="1431" alt="Screen Shot 2024-03-06 at 9 48 58 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/90a1f87e-a601-4e26-9a26-ccc786890b49">
+
 
 ## CRUD (Create, Read, Update, Delete)
 
