@@ -49,9 +49,21 @@ Install Uvicorn
 
 ### app.js
 
+<img width="1166" alt="Screen Shot 2024-03-06 at 11 23 13 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/7d00ec0c-741c-4641-8221-87e2c8a8d810">
+
+<img width="1167" alt="Screen Shot 2024-03-06 at 11 23 30 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/35ccac43-740f-4422-8ed7-d2250bf2afaf">
+
+<img width="1165" alt="Screen Shot 2024-03-06 at 11 23 55 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/1df045fe-9e60-48c5-bd7b-51987e12d350">
 
 
 ### style.css
+
+<img width="1167" alt="Screen Shot 2024-03-06 at 11 21 44 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/7be59086-0912-4b33-a48e-412128aea8a8">
+
+<img width="1166" alt="Screen Shot 2024-03-06 at 11 22 08 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/96fb5cea-4909-4a2e-9f9f-4b53fbb2b091">
+
+<img width="1165" alt="Screen Shot 2024-03-06 at 11 22 23 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/69bb80d9-138f-43b7-9a71-9c30fa7801e6">
+
 
 ### favicon.ico
 
@@ -65,11 +77,16 @@ Install Uvicorn
 
 ### main.py
 
+<img width="1168" alt="Screen Shot 2024-03-06 at 11 19 16 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/57e9686f-e497-4dcb-b293-4bfb2a303ea9">
+
 ### models.py
 
 <img width="1165" alt="Screen Shot 2024-03-06 at 9 56 13 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/09e24761-d51c-4d25-a3b3-5c29cb2425b9">
 
 ### routes.py
+
+<img width="1167" alt="Screen Shot 2024-03-06 at 11 19 46 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/93912d62-db0d-4165-9baa-4fb2010f0cb7">
+
 
 ## Snap shot from website
 
