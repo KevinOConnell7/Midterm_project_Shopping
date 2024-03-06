@@ -10,7 +10,7 @@ Code is in the MP-Shopping-Liat please put virtual enviroment in it
 
 ## What is the Application?
 
-The application that I made is a shopping list. This shopping list allows you to keep a list of items and quantity of the item that you would want to buy from your grocery store. You can add items to the list, remove items from the list, and update items quanitity when they are on the list. I am someone who oftens goes to the grocery store without a list and this would be very helpful for me to use. 
+The application that I made is a shopping list. This shopping list allows you to keep a list of items and quantity of the item that you would want to buy from your grocery store. You can add items to the list, remove items from the list, and update items quanitity when they are on the list. I am someone who oftens goes to the grocery store without a list and this would be very helpful for me to use. Some features that I would like to add in the future would be a another category that groups each grocery but what type store you would like to purchase the item at. I also think a interesting feature to add would be a google maps API to show you where the store are on a map. The final feature I would add would be a log in system so that people could log in and multiple people would be able to make a shopping list and aswell make it so that grocery stores could log in and tell the user if the item that they would want to purchase is in stock. 
 
 ## How to run Application?
 
