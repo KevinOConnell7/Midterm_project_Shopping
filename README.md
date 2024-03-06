@@ -13,23 +13,30 @@ The application that I made is a shopping list. This shopping list allows you to
 To run this application there are multiple ways to do it 
 
 Create Virtual Enviroment
+
 `python -m venv venv`
 
 
 Activating virtual enviroment
+
 for mac
+
 `source venv/bin/activate`
 
 for windows
+
 `.\venv\Scripts\activate`
 
 when in virtual enviroment install the requirements
+
 `pip install -r requirements.txt`
 
 Install FastAPI
+
 `pip install fastapi`
 
 Install Uvicorn
+
 `pip install fastapi uvicorn`
 
 
