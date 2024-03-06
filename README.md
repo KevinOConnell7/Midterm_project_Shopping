@@ -43,7 +43,9 @@ Install Uvicorn
 
 `pip install fastapi uvicorn`
 
+To start the website once you have installed all the necessary extensions.
 
+`uvicorn main:app --reload`
 
 ## FrontEnd
 
@@ -109,6 +111,6 @@ Next I will show you 2 screen shots of the update button. One screenshot will be
 <img width="1431" alt="Screen Shot 2024-03-06 at 9 48 58 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/90a1f87e-a601-4e26-9a26-ccc786890b49">
 
 
-## CRUD (Create, Read, Update, Delete)
+## Conclusion
 
 
