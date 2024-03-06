@@ -51,6 +51,8 @@ To start the website once you have installed all the necessary extensions.
 
 ### app.js
 
+Here is my app.js file that is in plain javascript but I plan to use another front end framework for the final project. 
+
 <img width="1166" alt="Screen Shot 2024-03-06 at 11 23 13 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/7d00ec0c-741c-4641-8221-87e2c8a8d810">
 
 <img width="1167" alt="Screen Shot 2024-03-06 at 11 23 30 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/35ccac43-740f-4422-8ed7-d2250bf2afaf">
@@ -60,6 +62,8 @@ To start the website once you have installed all the necessary extensions.
 
 ### style.css
 
+Below you will see a couple screenshots of my css file. This file is used to design my website and add color to my website.
+
 <img width="1167" alt="Screen Shot 2024-03-06 at 11 21 44 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/7be59086-0912-4b33-a48e-412128aea8a8">
 
 <img width="1166" alt="Screen Shot 2024-03-06 at 11 22 08 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/96fb5cea-4909-4a2e-9f9f-4b53fbb2b091">
@@ -68,6 +72,8 @@ To start the website once you have installed all the necessary extensions.
 
 
 ### favicon.ico
+
+In the screen shot below you can seethe favicon logo that I used for my website. This was implemented in my index.html file. 
 
 <img width="1161" alt="Screen Shot 2024-03-06 at 9 55 51 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/1683345c-7d92-4eb6-9450-5740be8aa0a3">
 
