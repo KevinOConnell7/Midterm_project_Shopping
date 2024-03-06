@@ -6,7 +6,7 @@ By: Kevin O'Connell
 
 CS:3980:0001
 
-Code is in the MP
+Code is in the MP-Shopping-Liat please put virtual enviroment in it
 
 ## What is the Application?
 
