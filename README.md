@@ -95,6 +95,9 @@ In the screen shot below you can seethe favicon logo that I used for my website.
 
 <img width="1167" alt="Screen Shot 2024-03-06 at 11 19 46 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/93912d62-db0d-4165-9baa-4fb2010f0cb7">
 
+## Picture of files in Visual Studio
+
+<img width="255" alt="Screen Shot 2024-03-06 at 12 23 16 PM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/3ae351d5-8bf8-4d2c-9829-22d994b17b86">
 
 ## Snap shot from website
 
@@ -115,6 +118,7 @@ Next I will show you 2 screen shots of the update button. One screenshot will be
 <img width="1431" alt="Screen Shot 2024-03-06 at 9 48 17 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/f7e6fa3a-4fb3-4329-bc76-680c8cf95f9f">
 
 <img width="1431" alt="Screen Shot 2024-03-06 at 9 48 58 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/90a1f87e-a601-4e26-9a26-ccc786890b49">
+
 
 ## Video of Application running
 
