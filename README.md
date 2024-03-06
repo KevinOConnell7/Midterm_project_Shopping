@@ -26,6 +26,13 @@ for windows
 when in virtual enviroment install the requirements
 `pip install -r requirements.txt`
 
+Install FastAPI
+`pip install fastapi`
+
+Install Uvicorn
+`pip install fastapi uvicorn`
+
+
 
 
 ## FrontEnd
