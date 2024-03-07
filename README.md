@@ -70,9 +70,11 @@ After the requirements are installed use this code to load the website if there 
 
 ## FrontEnd
 
+My front end files are in the folder named static which is in the MP-Shopping-Liat folder.
+
 ### app.js
 
-Here is my app.js file that is in plain javascript but I plan to use another front end framework for the final project. 
+Here is my app.js file that is in plain javascript code. The app.js file also manages the users interaction such as adding, updating, reading, and removing with the Shopping List application. It also uses the fetch command to retrieve data that was entered. 
 
 <img width="1166" alt="Screen Shot 2024-03-06 at 11 23 13 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/7d00ec0c-741c-4641-8221-87e2c8a8d810">
 
@@ -100,6 +102,8 @@ In the screen shot below you can seethe favicon logo that I used for my website.
 
 ### index.html
 
+This html file initializes the layout for the Shopping List application. It aswell links to our style.css, and our favicon.ico file to design the Shopping List application website. 
+
 <img width="1165" alt="Screen Shot 2024-03-06 at 9 55 30 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/62dd350d-528f-4af2-aa36-8422d11542b3">
 
 ---
@@ -108,17 +112,25 @@ In the screen shot below you can seethe favicon logo that I used for my website.
 
 ### main.py
 
+Here is my main.py folder which is what is used to start up the shopping application. The code to start the application once everything is installed is `uvicorn main:app --reload`. 
+
 <img width="1168" alt="Screen Shot 2024-03-06 at 11 19 16 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/57e9686f-e497-4dcb-b293-4bfb2a303ea9">
 
 ### models.py
+
+Below you can see a screenshot of my models.py file and code. In this screenshot you can see that we take the users item and quantity and create a list. 
 
 <img width="1165" alt="Screen Shot 2024-03-06 at 9 56 13 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/09e24761-d51c-4d25-a3b3-5c29cb2425b9">
 
 ### routes.py
 
+In the photo below you see the routes.py file and code. In this code we use post, get, put, and delete to connect our backend to these api's. You can aswell see that we used all the CRUD api endpoints in this screenshot.
+
 <img width="1167" alt="Screen Shot 2024-03-06 at 11 19 46 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/93912d62-db0d-4165-9baa-4fb2010f0cb7">
 
 ## Picture of files in Visual Studio
+
+In this photo you can see all of our files that our on my end in visual studio code. You can aswell see that I used a virtual enviroment.
 
 <img width="255" alt="Screen Shot 2024-03-06 at 12 23 16 PM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/3ae351d5-8bf8-4d2c-9829-22d994b17b86">
 
@@ -147,5 +159,9 @@ Next I will show you 2 screen shots of the update button. One screenshot will be
 ---
 
 ## Conclusion
+
+Overall, I learned a lot when doing this project. This project allowed me too step out of my comfort zone and try something new. I am excited to work with a group and make a more complex website. 
+
+
 
 
