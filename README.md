@@ -6,17 +6,21 @@ By: Kevin O'Connell
 
 CS:3980:0001
 
-Code is in the MP-Shopping-Liat please put virtual enviroment in it
+Code is in the MP-Shopping-Liat
 
 ---
 
 ## What is the Application?
 
-The application that I made is a shopping list. This shopping list allows you to keep a list of items and quantity of the item that you would want to buy from your grocery store. You can add items to the list, remove items from the list, and update items quanitity when they are on the list. I am someone who oftens goes to the grocery store without a list and this would be very helpful for me to use. Some features that I would like to add in the future would be a another category that groups each grocery but what type store you would like to purchase the item at. I also think a interesting feature to add would be a google maps API to show you where the store are on a map. The final feature I would add would be a log in system so that people could log in and multiple people would be able to make a shopping list and aswell make it so that grocery stores could log in and tell the user if the item that they would want to purchase is in stock. 
+I've developed a shopping list application designed to improve your time grocery shopping. This app allows you to maintain a comprehensive list of items, including the quantity you intend to purchase, ensuring you never miss a thing at the grocery store. Some features include the ability to add, remove, and adjust the quantities of items on your list. There is also a quantity tracker at the top of the screen that updates constantly and allows you to see the total quantity of items in your shopping list. As someone who frequently forgets to bring a list to the grocery store, I find this tool very helpful for organizing my shopping list and being able to access it at any time. 
+
+Looking ahead, I would improve the app with several features. One such addition is the integration of categories that not only organize items but also suggest where to buy them, this would keep your list more organized and easier to read for the users. I'm also considering incorporating a Google Maps API to display the locations of these stores, this would allow users who are new to areas to remember the locations of the grocery stores that they would want to visit. Lastly, a login system would be helpful, this feature would help multiple users create and manage their shopping lists. This feature could also allow grocery stores to participate, providing real-time updates on stock availability directly to the user through our shopping list app. These future updates aim to make the grocery store trip much simpler and quicker for our users.
 
 ---
 
 ## How to run Application?
+
+The code is in the file named MP-Shopping-Liat please make sure when you install the virtual enviroment it is in this folder with the rest of the files and code. 
 
 To run this application Please Create a virtual enviroment with the code below. Please note if you are using a mac or windows computer.
 
