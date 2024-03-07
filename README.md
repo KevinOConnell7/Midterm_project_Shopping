@@ -118,13 +118,13 @@ Here is my main.py folder which is what is used to start up the shopping applica
 
 ### models.py
 
-Below you can see a screenshot of my models.py file and code. In this screenshot you can see that we take the users item and quantity and create a list. 
+The models.py file defines Python data models using Pydantic, with Item representing a new item with a name and quantity and Remove Item telling us which item will be removed.
 
 <img width="1165" alt="Screen Shot 2024-03-06 at 9 56 13 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/09e24761-d51c-4d25-a3b3-5c29cb2425b9">
 
 ### routes.py
 
-In the photo below you see the routes.py file and code. In this code we use post, get, put, and delete to connect our backend to these api's. You can aswell see that we used all the CRUD api endpoints in this screenshot.
+In the photo below you see the routes.py file and code. The routes.py file defines API routes for the Shopping List Application using fastapi.
 
 <img width="1167" alt="Screen Shot 2024-03-06 at 11 19 46 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/93912d62-db0d-4165-9baa-4fb2010f0cb7">
 
