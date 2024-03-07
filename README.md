@@ -70,7 +70,7 @@ After the requirements are installed use this code to load the website if there 
 
 ## FrontEnd
 
-My front end files are in the folder named static which is in the MP-Shopping-Liat folder.
+My FrontEnd files are in the folder named static which is in the MP-Shopping-Liat folder.
 
 ### app.js
 
