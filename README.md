@@ -14,14 +14,13 @@ The application that I made is a shopping list. This shopping list allows you to
 
 ## How to run Application?
 
-To run this application there are multiple ways to do it 
+To run this application Please Create a virtual enviroment with the code below. Please note if you are using a mac or windows computer.
 
-Create Virtual Enviroment
+### Create Virtual Enviroment
 
 `python -m venv venv`
 
-
-Activating virtual enviroment
+### Activating virtual enviroment
 
 for mac
 
@@ -31,21 +30,29 @@ for windows
 
 `.\venv\Scripts\activate`
 
-when in virtual enviroment install the requirements
+When the virtual enviroment is installed and activated please install the requirements with the code below.
+
+### Requirements code
 
 `pip install -r requirements.txt`
 
-Install FastAPI
+After the requirements are installed use this code to load the website if there are still errors I include some code below that could help. 
+
+### Code to run program
+
+`uvicorn main:app --reload`
+
+### Extra Code that could be helpful
+
+#### Install FastAPI
 
 `pip install fastapi`
 
-Install Uvicorn
+#### Install Uvicorn
 
 `pip install fastapi uvicorn`
 
-To start the website once you have installed all the necessary extensions.
-
-`uvicorn main:app --reload`
+#### Install Pydantics
 
 ## FrontEnd
 
