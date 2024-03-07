@@ -152,7 +152,7 @@ In the next screen shot that you will see below I will remove some items from th
 
 <img width="1429" alt="Screen Shot 2024-03-06 at 9 45 29 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/6ee4ef75-16ad-4cc0-99e7-c32ce73786ef">
 
-Next I will show you 2 screen shots of the update button. One screenshot will be the prompt that pops up and the next will be the updated item quantity in the list. 
+Next I will show you 2 screen shots of the update button. One screenshot will be the prompt that pops up to update the quantity and the next will be the updated item quantity in the list. 
 
 <img width="1431" alt="Screen Shot 2024-03-06 at 9 48 17 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/f7e6fa3a-4fb3-4329-bc76-680c8cf95f9f">
 
