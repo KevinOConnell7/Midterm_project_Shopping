@@ -8,7 +8,7 @@ CS:3980:0001
 
 Code is in the MP-Shopping-Liat
 
-Order of file: 1. What is the application, 2. How to run Application, 3. Frontend, 4. Backend, 5. Screenshots from website, 6. Conclusion
+Order of Readme: 1. What is the application, 2. How to run Application, 3. Frontend, 4. Backend, 5. Screenshots from website, 6. Conclusion
 
 ---
 
