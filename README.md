@@ -8,6 +8,8 @@ CS:3980:0001
 
 Code is in the MP-Shopping-Liat
 
+Order of file: 1. What is the application, 2. How to run Application, 3. Frontend, 4. Backend, 5. Screenshots from website, 6. Conclusion
+
 ---
 
 ## What is the Application?
@@ -136,7 +138,7 @@ In this photo you can see all of our files that our on my end in visual studio c
 
 ---
 
-## Snap shot from website
+## Screenshots from website
 
 The screen shot below is what the website looks like when you first run it and open the website. 
 
