@@ -98,7 +98,7 @@ Below you will see a couple screenshots of my css file. This file is used to des
 
 ### favicon.ico
 
-In the screen shot below you can seethe favicon logo that I used for my website. This was implemented in my index.html file. 
+In the screen shot below you can see the favicon logo that I used for my website. This was implemented in my index.html file. 
 
 <img width="1161" alt="Screen Shot 2024-03-06 at 9 55 51 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/1683345c-7d92-4eb6-9450-5740be8aa0a3">
 
