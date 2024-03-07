@@ -16,11 +16,11 @@ The application that I made is a shopping list. This shopping list allows you to
 
 To run this application Please Create a virtual enviroment with the code below. Please note if you are using a mac or windows computer.
 
-### Create Virtual Enviroment
+#### Create Virtual Enviroment
 
 `python -m venv venv`
 
-### Activating virtual enviroment
+#### Activating virtual enviroment
 
 for mac
 
@@ -32,13 +32,13 @@ for windows
 
 When the virtual enviroment is installed and activated please install the requirements with the code below.
 
-### Requirements code
+#### Requirements code
 
 `pip install -r requirements.txt`
 
 After the requirements are installed use this code to load the website if there are still errors I include some code below that could help. 
 
-### Code to run program
+#### Code to run program
 
 `uvicorn main:app --reload`
 
