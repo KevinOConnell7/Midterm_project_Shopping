@@ -44,6 +44,8 @@ After the requirements are installed use this code to load the website if there 
 
 `uvicorn main:app --reload`
 
+---
+
 ### Extra Code that could be helpful if having trouble running
 
 #### To verify if the pip is installed run this code in your terminal
@@ -58,6 +60,7 @@ After the requirements are installed use this code to load the website if there 
 
 `pip install fastapi uvicorn`
 
+---
 
 ## FrontEnd
 
@@ -93,6 +96,8 @@ In the screen shot below you can seethe favicon logo that I used for my website.
 
 <img width="1165" alt="Screen Shot 2024-03-06 at 9 55 30 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/62dd350d-528f-4af2-aa36-8422d11542b3">
 
+---
+
 ## Backend
 
 ### main.py
@@ -110,6 +115,8 @@ In the screen shot below you can seethe favicon logo that I used for my website.
 ## Picture of files in Visual Studio
 
 <img width="255" alt="Screen Shot 2024-03-06 at 12 23 16 PM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/3ae351d5-8bf8-4d2c-9829-22d994b17b86">
+
+---
 
 ## Snap shot from website
 
@@ -131,9 +138,7 @@ Next I will show you 2 screen shots of the update button. One screenshot will be
 
 <img width="1431" alt="Screen Shot 2024-03-06 at 9 48 58 AM" src="https://github.com/KevinOConnell7/Midterm_project_Shopping/assets/45603150/90a1f87e-a601-4e26-9a26-ccc786890b49">
 
-
-## Video of Application running
-
+---
 
 ## Conclusion
 
