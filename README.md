@@ -12,6 +12,8 @@ Code is in the MP-Shopping-Liat please put virtual enviroment in it
 
 The application that I made is a shopping list. This shopping list allows you to keep a list of items and quantity of the item that you would want to buy from your grocery store. You can add items to the list, remove items from the list, and update items quanitity when they are on the list. I am someone who oftens goes to the grocery store without a list and this would be very helpful for me to use. Some features that I would like to add in the future would be a another category that groups each grocery but what type store you would like to purchase the item at. I also think a interesting feature to add would be a google maps API to show you where the store are on a map. The final feature I would add would be a log in system so that people could log in and multiple people would be able to make a shopping list and aswell make it so that grocery stores could log in and tell the user if the item that they would want to purchase is in stock. 
 
+---
+
 ## How to run Application?
 
 To run this application Please Create a virtual enviroment with the code below. Please note if you are using a mac or windows computer.
@@ -42,17 +44,20 @@ After the requirements are installed use this code to load the website if there 
 
 `uvicorn main:app --reload`
 
-### Extra Code that could be helpful
+### Extra Code that could be helpful if having trouble running
 
-#### Install FastAPI
+#### To verify if the pip is installed run this code in your terminal
+
+`python -m pip list`
+
+#### Install FastAPI or Check if FastAPI is installed
 
 `pip install fastapi`
 
-#### Install Uvicorn
+#### Install Uvicorn or Check if Uvicorn is installed
 
 `pip install fastapi uvicorn`
 
-#### Install Pydantics
 
 ## FrontEnd
 
