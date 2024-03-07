@@ -52,7 +52,7 @@ After the requirements are installed use this code to load the website if there 
 
 ---
 
-### Extra Code that could be helpful if having trouble running
+## Extra Code that could be helpful if having trouble running
 
 #### To verify if the pip is installed run this code in your terminal
 
