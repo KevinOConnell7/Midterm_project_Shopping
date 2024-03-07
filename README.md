@@ -162,7 +162,7 @@ Next I will show you 2 screen shots of the update button. One screenshot will be
 
 ## Conclusion
 
-Overall, I learned a lot when doing this project. This project allowed me too step out of my comfort zone and try something new. I am excited to work with a group and make a more complex website. 
+Overall, I learned a lot when doing this project. This project allowed me too step out of my comfort zone and try something new. I am excited to work with a group and make a more complex website using aspects that I have learned. 
 
 
 
